@@ -15,3 +15,12 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Binaries
+*.bin
+*.dump
+
+# Log files
+*.log
+*.str
+*.jou
