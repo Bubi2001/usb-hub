@@ -24,3 +24,6 @@
 *.log
 *.str
 *.jou
+
+# VSCode files
+.vscode*
